@@ -32,4 +32,5 @@ ii. For ‘Date’ from 2001 onwards
 
 #### Non-functional requirements:
 • The GUI interface must be able to provide appropriate feedback to confirm or deny a user’s actions.
+
 • The application must be able to manage internal and user-generated errors Technical requirements.
