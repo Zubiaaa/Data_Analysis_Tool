@@ -5,13 +5,13 @@ Design and develop a prototype application that demonstrates how data from the g
 #### Functional requirements: 
 The application should provide the following functionality: 
 
-● A means to load the initial dataset (which consists of three CSV files) and translate it into a suitable format, either XML, or JSON or an entity relationship structure (not CSV). 
+• A means to load the initial dataset (which consists of three CSV files) and translate it into a suitable format, either XML, or JSON or an entity relationship structure (not CSV). 
 
-● A means to back up the suitable format using either files or a database. This should preserve the current state of the data when the program is closed, and make it available when the program is reopened. 
+• A means to back up the suitable format using either files or a database. This should preserve the current state of the data when the program is closed, and make it available when the program is reopened. 
 
-● A process for cleaning and preparing the initial data set, managing inconsistencies, errors, missing values and any specific changes required by the client (see below). 
+• A process for cleaning and preparing the initial data set, managing inconsistencies, errors, missing values and any specific changes required by the client (see below). 
 
-● A graphical user interface(s) for interacting with the data that enables the user to: 
+• A graphical user interface(s) for interacting with the data that enables the user to: 
 
 o Load and clean an initial data set (from the CV format). 
 
