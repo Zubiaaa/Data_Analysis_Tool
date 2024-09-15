@@ -1,6 +1,6 @@
 # Radio Broadcast Data Insights and Analytics Application
 
-Design and develop a prototype application that demonstrates how data from the given data set can be formatted, cleaned, and used to generate specific outputs (as listed below). 
+Design and develop a prototype application that demonstrates how data from the given data set can be formatted, cleaned, and used to generate insightful visualisations (as listed below). 
 
 ### Functional requirements: 
 The application should provide the following functionality: 
