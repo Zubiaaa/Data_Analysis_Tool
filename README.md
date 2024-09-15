@@ -44,3 +44,17 @@ ii. For ‘Date’ from 2001 onwards
 • The GUI interface must be able to provide appropriate feedback to confirm or deny a user’s actions.
 
 • The application must be able to manage internal and user-generated errors Technical requirements.
+
+#### Steps:
+Following are the step-by-step instructions to run this Broadcast analytics application:
+1)  Please run application.
+2)  Under "Clean Data" tab, please click on 1st "browse" button to load Antenna file.
+3)  Please click on 2nd "browse" button to load Params file.
+4)  Please click on "Click & Backup" button to clean both data files and store the copy of clean file for backup (in JSON format) into current directory. To see output, check Jupyter Notebook.
+5)  Please click on "Save As" button to save the cleaned file (in JSON format) into directory of your choice. While naming your file, please write name in the following format "*.json".
+6)  Please go to the next tab "Generate Visual".
+7)  Please upload the saved JSON file by clicking on the "browse" button.
+8)  Please select the type of visualisation you would like to generate by clicking on the radio button beside each graph title.
+9)  Please click on "export" button if you want to save the generated graph as a PNG image file into your system.
+10) Please click on "generate" button if you want to generate the graph on Jupyter Notebook's output. To see output, check Jupyter Notebook.
+11) If you like to close application, please click on "exit" button on either tab.
