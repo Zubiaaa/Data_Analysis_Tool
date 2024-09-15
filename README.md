@@ -1,4 +1,4 @@
-# Data Analysis Tool for Broadcast Analytics: Data-Driven Insights for Radio Stations
+# Radio Broadcast Data Insights and Analytics Application
 
 Design and develop a prototype application that demonstrates how data from the given data set can be formatted, cleaned, and used to generate specific outputs (as listed below). 
 
